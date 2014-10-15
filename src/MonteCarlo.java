@@ -1,5 +1,3 @@
-package com.uiuc.sigsoft.nettest;
-
 /**
  * Created by Pri on 10/11/2014.
  */
